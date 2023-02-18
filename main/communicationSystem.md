@@ -43,7 +43,7 @@ Here are some following principles that communicate between systems:
 > - Security Measures: Security measures should be taken to ensure that unauthorized access to the software or hardware is not possible.
 
 > - Documentation: Documentation should be provided to help users understand the system and how to use it. This will ensure that users are able to take full advantage of the hardware and software communication system.
-                                  ...
+
 I hope it helps.
 
 Thanks for reading :)
