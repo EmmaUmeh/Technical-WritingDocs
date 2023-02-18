@@ -1,5 +1,7 @@
 # Communication System Between Hardware And Software
 
+[! Diagram] (/main/Cmsdiagram.png "Structruce diagram")
+
  _why do you think some machines get faulty?_
 
 I dislike low productivity of a machines, it slows my momentum to work harder, what about you? sometimes it's really hard to configure or sort out the problem.Having potential breakdown in machines sometimes is disheartening.Yeah, i faced same issue sometime ago, it was not funny at all.
