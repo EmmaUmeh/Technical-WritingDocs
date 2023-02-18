@@ -30,15 +30,15 @@ Hardware and Software systems are systems that facilitates the excahange of data
 >  Note: Does hardware and software plays thesame role. No, they don't. Hardware is the physical components of a computer, such as the processor, the motherboard, the hard drive, the RAM, and other components, while software is a set of instructions that tells the hardware how to perform tasks. Hardware is responsible for actually performing the tasks, while software tells the hardware what tasks to perform.
 
 #### Principles of communication system between (Hardware and Software)
+Here are some following principles that communicate between systems:
 
+> - Consistent Interface: The interface between hardware and software should be consistent and easy to use. It should be designed in a way that allows for quick and efficient communication.
 
-1. Consistent Interface: The interface between hardware and software should be consistent and easy to use. It should be designed in a way that allows for quick and efficient communication.
+> - Standard Protocols: A standard protocol should be used for communication between hardware and software components. This helps to ensure that information is exchanged in a consistent and reliable manner.
 
-2. Standard Protocols: A standard protocol should be used for communication between hardware and software components. This helps to ensure that information is exchanged in a consistent and reliable manner.
+> - Error Checking: Error checking should be implemented to detect any errors that may occur during communication between hardware and software.
 
-3. Error Checking: Error checking should be implemented to detect any errors that may occur during communication between hardware and software.
-
-4. Data Encryption: Data encryption should be used to protect the data being exchanged between hardware and software.
+> - Data Encryption: Data encryption should be used to protect the data being exchanged between hardware and software.
 
 5. Security Measures: Security measures should be taken to ensure that unauthorized access to the software or hardware is not possible.
 
