@@ -16,6 +16,4 @@ A communication sytem works by transmitting and receiving signals between two or
 
 ### What are Hardware and Software Systems?
 
-Computer systems are divided into the follwing systems:
-> - Hardware Systems
-> - Software Systems
+Hardware and Software systems are systems that facilitates the excahange of data and information between hardware components and software programs.
