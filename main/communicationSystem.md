@@ -2,7 +2,7 @@
 
  _why do you think some machines get faulty?_
 
-Thus, sometimes it's really hard to configure or sort out the problem.Having potential breakdown in machines sometimes is disheartening.Yeah, i faced same issue sometime ago- it was not funny at all.
+I dislike low productivity of a machines, it slows my momentum to work harder, what about you? sometimes it's really hard to configure or sort out the problem.Having potential breakdown in machines sometimes is disheartening.Yeah, i faced same issue sometime ago- it was not funny at all.
 Though my payback is to find the nearest technician to get the issue resolved(due to some lack of communication) between the machines.
 But, today in this post i will share with you the common communication system between hardware and software.
 
