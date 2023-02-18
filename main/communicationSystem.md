@@ -1,6 +1,6 @@
 # Communication System Between Hardware And Software
 
-[! Diagram] (/main/Cmsdiagram.png "Structruce diagram")
+![Structruce diagram](/main/Cmsdiagram.png "Structruce diagram")
 
  _why do you think some machines get faulty?_
 
