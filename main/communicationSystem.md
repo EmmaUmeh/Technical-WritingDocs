@@ -19,3 +19,4 @@ A communication sytem works by transmitting and receiving signals between two or
 ### What are Hardware and Software Systems?
 
 Hardware and Software systems are systems that facilitates the excahange of data and information between hardware components and software programs.
+>  Note: Does hardware and software play thesame role. No, they don't. Hardware is the physical components of a computer, such as the processor, the motherboard, the hard drive, the RAM, and other components, while software is a set of instructions that tells the hardware how to perform tasks. Hardware is responsible for actually performing the tasks, while software tells the hardware what tasks to perform.
