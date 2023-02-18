@@ -40,7 +40,11 @@ Here are some following principles that communicate between systems:
 
 > - Data Encryption: Data encryption should be used to protect the data being exchanged between hardware and software.
 
-5. Security Measures: Security measures should be taken to ensure that unauthorized access to the software or hardware is not possible.
+> - Security Measures: Security measures should be taken to ensure that unauthorized access to the software or hardware is not possible.
 
-6. Documentation: Documentation should be provided to help users understand the system and how to use it. This will ensure that users are able to take full advantage of the hardware and software communication system.
+> - Documentation: Documentation should be provided to help users understand the system and how to use it. This will ensure that users are able to take full advantage of the hardware and software communication system.
+                                  ...
+I hope it helps.
+
+Thanks for reading :)
 
