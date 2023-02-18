@@ -11,7 +11,8 @@ But, today in this post i will share with you the common communication system be
 _Now let keep the ball rolling_ -
 
 ## What is Communication System
-Communication Sytem are composed of hardware or software components that work together to enable the transmission of information from one end of the system to another. Communication between hardware and software is typically accomplished using Aplication Program Interface(APIs) and communication protocols. APIs are a set of instructions, functions, and protocols that allow communication between two systems. Examples of APIs include Printer API, Bluetooth API, Global Positioning System(GPS) API. Communication protocols are a set of rules that govern how data is exchanged between two systems. Examples of communication protocols include UDP (User Datagram Protocol), TCP (Transmission Control Protocol), and HTTP (Hypertext Transfer Protocol).
+Communication Sytem are composed of hardware or software components that work together to enable the transmission of information from one end of the system to another. 
+Communication between hardware and software is typically accomplished using Aplication Program Interface(APIs) and communication protocols. APIs are a set of instructions, functions, and protocols that allow communication between two systems. Examples of APIs include Printer API, Bluetooth API, Global Positioning System(GPS) API. Communication protocols are a set of rules that govern how data is exchanged between two systems. Examples of communication protocols include UDP (User Datagram Protocol), TCP (Transmission Control Protocol), and HTTP (Hypertext Transfer Protocol).
 
 _How does communication system works?_
 A communication sytem works by transmitting and receiving signals between two or more devices.This system involves the combination of Hardware and Software components. From our explanation earlier, Communication systems, majorly, comprises of the hardware and software components.
